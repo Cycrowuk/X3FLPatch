@@ -22,9 +22,9 @@
 <page id="390035" title="Menu strings misc" descr="0" voice="no">
  <t id="670">Kommando</t>
  <t id="676">Keine</t>
- <t id="686">Zugehörige Schiffe</t>
+ <t id="686">Beheimatete Schiffe</t>
  <t id="689">-- Keine --</t>
- <t id="829">Zugehörige Schiffe</t>
+ <t id="829">Beheimatete Schiffe</t>
  <t id="3580">Greife Großkampfschiffe an  \(M6 und ähnlich\)</t>
  <t id="3583">Schwere Raketenverteidigung</t>
  <t id="3586">Raketensalvenverteidigung</t>
@@ -40,6 +40,7 @@
  <t id="5470">Anzahl der Spielspeicherungen</t>
  <t id="9212">Frachtraum:</t>
  <t id="80801">Fracht-Transfer</t>
+ <t id="1100028">Stationseinstellungen</t>
  <t id="1102427">Globale Freund-Feind-Kennung übermitteln an</t>
  <t id="1102472">Anzahl der Geschütze:</t>
  <t id="1104110">Verborgene Schiffe/Stationen nicht anzeigen</t>
@@ -409,6 +410,10 @@
  <t id="3304">add sidebar custom entry, personal: id=%0, icon=%1, pageid=%2, textid=%3, submenu=%4, scriptname=%5</t> 
 </page>
 
+<page id="392005" title="Script Command Menu" descr="0" voice="no">
+ <t id="103">Datenreihen &amp; Tabellen</t>
+</page>
+
 <page id="392008" title="Script Object Commands" descr="0" voice="no">
  <t id="9600">COMMAND_UPGRADE_FACTORY</t>
 </page>
@@ -434,10 +439,6 @@
  <t id="100010">Waren mit Drohnen einsammeln</t>
  <t id="100028">Waren von Heimatbasis holen</t>
  <t id="100029">Waren an Heimatbasis liefern</t>
-</page>
-
-<page id="392005" title="Script Command Menu" descr="0" voice="no">
- <t id="103">Datenreihen &amp; Tabellen</t>
 </page>
  
 <page id="392011" title="Script Cmd Shorts" descr="0" voice="no">
